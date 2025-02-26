@@ -12,14 +12,15 @@ This is a simple PHP registration system with user validation and password hashi
 
 Follow these steps to set up the project on your local machine:
 
-### 1️⃣ Clone the Repository
-```sh
+1️⃣ Clone the Repository
 git clone https://github.com/Youssef-M-Salama/phpRegistrationTask.git
 cd phpRegistrationTask
+
 2️⃣ Set Up the Database
 Open phpMyAdmin or any MySQL client.
 Create a new database named my_first_project.
 Import the provided database.sql file (or copy and execute the SQL dump manually).
+
 3️⃣ Configure Database Connection
 Open config/database.php (or includes/db.php if applicable).
 Update the database credentials according to your local setup:
@@ -42,7 +43,7 @@ Open register.php to create a new account.
 Navigate to login.php to log in.
 After successful login, you'll be redirected to dashboard.php.
 vbnet
-نسخ
+نسخh
 تحرير
 
 You can paste this directly into your **README.md** file. Let me know if you need any modifications! 🚀😊
