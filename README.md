@@ -44,8 +44,6 @@ Open register.php to create a new account.
 Navigate to login.php to log in.
 After successful login, you'll be redirected to dashboard.php.
 🚀 Now you're all set! Enjoy using your PHP registration system.
-نسخ
-تحرير
 
 
 
